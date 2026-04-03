@@ -1,19 +1,9 @@
 # ExtremeUI
 > A Zig-native GUI framework powered by SDF rendering and SPIR-V shaders
 
-[
-
-![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)
-
-](https://www.gnu.org/licenses/lgpl-3.0)[
-
-![Zig](https://img.shields.io/badge/Zig-0.x-orange.svg)
-
-](https://ziglang.org)[
-
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+[![Zig](https://img.shields.io/badge/Zig-0.x-orange.svg)](https://ziglang.org)
 ![Status](https://img.shields.io/badge/Status-WIP-yellow.svg)
-
-]()
 
 ---
 
