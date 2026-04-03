@@ -5,13 +5,11 @@
 
 ![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)
 
-](https://www.gnu.org/licenses/lgpl-3.0)
-[
+](https://www.gnu.org/licenses/lgpl-3.0)[
 
 ![Zig](https://img.shields.io/badge/Zig-0.x-orange.svg)
 
-](https://ziglang.org)
-[
+](https://ziglang.org)[
 
 ![Status](https://img.shields.io/badge/Status-WIP-yellow.svg)
 
