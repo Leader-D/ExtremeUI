@@ -1,7 +1,7 @@
 # ExtremeUI
 > A Zig-native GUI framework powered by SDF rendering and SPIR-V shaders
 
-[![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+[![License: MFSLv1](https://img.shields.io/badge/License-LGPL_v3-blue.svg)]()
 [![Zig](https://img.shields.io/badge/Zig-0.x-orange.svg)](https://ziglang.org)
 ![Status](https://img.shields.io/badge/Status-WIP-yellow.svg)
 
@@ -125,7 +125,7 @@ Core/Platform/Linux_win.zig            # opens X11 or Wayland window
 
 ## License
 
-Licensed under the **GNU Lesser General Public License v3.0**.
+Licensed under the **Modern Free Source License**.
 You are free to build closed-source applications with ExtremeUI.
 Any modifications to ExtremeUI itself must remain open source.
 
